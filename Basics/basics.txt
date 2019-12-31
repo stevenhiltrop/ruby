@@ -1,0 +1,44 @@
+Exercise 1:
+Input
+number
+
+Function
+multiply
+
+Examples
+Input: function(1)
+Output: 1
+
+Input: function(2)
+Output: 4
+
+Input: function(3)
+Output: 9
+
+Exercise 2:
+Input
+name
+
+Function
+display_name
+
+Examples
+Input: function(Vaishali)
+Output: My name is Vaishali!
+
+Input: function(Mona)
+Output: My name is Mona!
+
+Exercise 3:
+Input
+user_input
+
+Function
+is_color
+
+Examples
+Input: function(Blue)
+Output: Blue is a color!
+
+Input: function(Dog)
+Output: Dog is not a color!
